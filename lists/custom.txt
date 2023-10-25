@@ -10,3 +10,13 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1
 
 # 1HOST PRO
 https://o0.pages.dev/Pro/adblock.txt
+
+# OSID
+https://big.oisd.nl/
+
+#GoodBye Ads
+https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Formats/GoodbyeAds-AdBlock-Filter.txt
+
+
+
+
